@@ -36,3 +36,28 @@ body{
     height: 20px;
 
 }
+
+#user1{
+    text-align: center;
+    color: aliceblue;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    color: aliceblue;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    
+  }
+  
+  td{
+    background-color: #dddddd;
+  }
+
+
