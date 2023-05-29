@@ -7,6 +7,10 @@
 
 }
 
+body{
+    background-image: url(./images/Foto-KJ-Pargeter-Freepik_deep-tech-capa.webp);
+}
+
 #nome{
     color: blue;
 }
@@ -14,7 +18,7 @@
 #btn{
     
     border-radius: 20px;
-    width: 10%;
+    width: 20%;
     height: 30px;
     color: blue;
 
@@ -22,13 +26,13 @@
 
 #log{
     border-radius: 20px;
-    width: 15%;
+    width: 30%;
     height: 20px;
 }
 
 #senha{
     border-radius: 20px;
-    width: 15%;
+    width: 30%;
     height: 20px;
 
 }
